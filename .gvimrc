@@ -1,1 +1,1 @@
-/Users/kevin/.gvimrc
+set guifont=Consolas:h14
