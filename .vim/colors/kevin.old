@@ -1,0 +1,20 @@
+hi SpecialKey guifg=Blue   
+hi MoreMsg guifg=Green   
+hi Visual guifg=NONE guibg=NONE gui=reverse cterm=reverse   
+hi Folded ctermbg=4 guibg=Blue   
+hi FoldColumn ctermbg=7   
+hi DiffAdd guibg=Blue   
+hi DiffChange guibg=Yellow
+hi DiffDelete guibg=Cyan  
+hi Normal guifg=White guibg=#307070
+hi Cursor guibg=White  
+hi lCursor guibg=White  
+hi Comment guifg=Cyan  
+hi Constant guifg=Yellow  
+hi Special guifg=Yellow
+hi Identifier guifg=Cyan  
+hi Statement guifg=Orange  
+hi PreProc guifg=Yellow
+hi Type guifg=Green gui=NONE  
+hi Underlined guifg=Blue  
+hi Todo guifg=Black  
