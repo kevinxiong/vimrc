@@ -1,1 +1,1 @@
-set guifont=Consolas:h14
+set guifont=Consolas:h16

@@ -91,3 +91,12 @@ let loaded_project = 1
 "for NERD Commenter
 let NERD_java_alt_style=1
 
+set shellslash
+
+set grepprg=grep\ -nH\ $*
+
+filetype indent on
+
+let g:tex_flavor='latex'
+
+
