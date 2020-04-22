@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/kevin/Temp/log/xiaozhao111@hotmail.com (2012-06-08T17.44.46+0800).chatlog'
 let g:netrw_dirhist_2='/Volumes/Tools/Storage/msg/im_msg/ren.sh'
 let g:netrw_dirhist_3='/Users/kevin/Dropbox/Code/vimrc/.vim/ftplugin'
@@ -7,3 +7,5 @@ let g:netrw_dirhist_4='/etc'
 let g:netrw_dirhist_5='/Volumes/Tools/Storage/msg/log/xiaozhao111@hotmail.com (2012-06-05T13.32.13+0800).chatlog'
 let g:netrw_dirhist_6='/Volumes'
 let g:netrw_dirhist_7='/Users/kevin/work/db_script/v1.1.2/dpm'
+let g:netrw_dirhist_8='/Users/kevin/code/wemart/decathlon/shop-python'
+let g:netrw_dirhist_9='/Users/kevin/Dropbox/Code/vimrc/.vim'
